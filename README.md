@@ -16,8 +16,9 @@ This repository includes my learning notes, hands-on labs, TryHackMe exercises, 
 
 ---
 
-## 🗂️ Repository Structure
+## 📁 Repository Structure
 
+```
 Cybersecurity_Portfolio/
 ├── SOC_Analyst/
 │   └── Labs, Notes, SIEM tools, Nmap
@@ -28,6 +29,7 @@ Cybersecurity_Portfolio/
 ├── Projects/
 │   └── Reports, Real-World Labs
 └── README.md
+```
 
 ---
 
